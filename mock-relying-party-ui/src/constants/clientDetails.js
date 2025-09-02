@@ -93,7 +93,7 @@ const clientDetails = {
   display: display,
   prompt: prompt,
   acr_values: acr_values,
-  claims_locales: claimsLocales,
+  claims_locales: "en",
   max_age: maxAge,
   grant_type: grantType,
   uibaseUrl: uibaseUrl,
