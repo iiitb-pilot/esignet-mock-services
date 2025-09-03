@@ -20,6 +20,7 @@ on:
       - develop
       - MOSIP*
       - release*
+      - sa-id-0.10.1
 
 jobs:
   build-maven-esignet-mock-services:
